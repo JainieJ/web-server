@@ -1,0 +1,19 @@
+{
+  "name": "quotations",
+  "version": "1.0.0",
+  "main": "popmotion.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "popmotion": "^8.6.2"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.8"
+  },
+  "description": ""
+}
